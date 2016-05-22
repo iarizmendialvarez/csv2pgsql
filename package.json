@@ -1,0 +1,38 @@
+{
+  "name": "csv2pgsql",
+  "version": "0.1.0",
+  "main": "dist/main.js",
+  "author": "Iñaki Arizmendi",
+  "homepage": "https://github.com/iarizmendialvarez/csv2pgsql",
+  "license": "SEE LICENSE IN README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:iarizmendialvarez/csv2pgsql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iarizmendialvarez/csv2pgsql/issues"
+  },
+  "private": true,
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "coffee-script": "^1.9.2",
+    "decompress-zip": "^0.1.0",
+    "pg": "^4.3.0",
+    "pg-copy-streams": "^0.3.0",
+    "q": "^1.3.0",
+    "request": "^2.55.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-coffeelint": "0.0.15",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-coffee": "0.13.0",
+    "grunt-contrib-compass": "~0.6.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-simple-mocha": "^0.4.1"
+  }
+}

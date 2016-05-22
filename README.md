@@ -1,3 +1,28 @@
+CSV2PGSQL
+===================
+
+- Download a zip with CSV files from an url, extract files and import into PostgreSQL database.
+
+> **Note:**
+> - The project status is **in proccess**. Do not use in production environment.
+
+## Installation
+```
+$ npm install -g coffee-script
+$ npm install -g grunt-cli
+$ npm install
+```
+## Compile
+```
+$ grunt or grunt-watch
+```
+## Run
+```
+$ node .
+```
+
+## License
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Iñaki Arizmendi Alvarez
