@@ -1,6 +1,6 @@
 {
   "name": "csv2pgsql",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "dist/main.js",
   "author": "Iñaki Arizmendi",
   "homepage": "https://github.com/iarizmendialvarez/csv2pgsql",
